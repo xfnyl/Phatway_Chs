@@ -601,7 +601,7 @@
 				]
 			},
 			{
-				"id": "Codex",//120条done
+				"id": "Codex",
 				"rows": [
 					{
 						"id": "GameDescription",
@@ -11291,379 +11291,379 @@
 					},
 					{
 						"id": "ActionType_Attack",
-						"text": "攻击指令"
+						"text": "Attack Action"
 					},
 					{
 						"id": "ActionType_Move",
-						"text": "移动指令"
+						"text": "Move Action"
 					},
 					{
 						"id": "ActionType_Neutral",
-						"text": "其他指令"
+						"text": "Misc Action"
 					},
 					{
 						"id": "ActionTooltip_Attack",
-						"text": "攻击"
+						"text": "Attack"
 					},
 					{
 						"id": "ActionTooltip_Melee",
-						"text": "肉搏"
+						"text": "Melee"
 					},
 					{
 						"id": "ActionTooltip_Heal",
-						"text": "治疗"
+						"text": "Heal"
 					},
 					{
 						"id": "ActionTooltip_Repair",
-						"text": "修理"
+						"text": "Repair"
 					},
 					{
 						"id": "ActionTooltip_ReviveInfo",
-						"text": "该角色被KO了. 你可以用医疗包将他救起."
+						"text": "This character is KO. You may revive them by using a medkit."
 					},
 					{
 						"id": "ActionTooltip_AlternateView",
-						"text": "[key:AlternateView]: 调整移动距离"
+						"text": "[key:AlternateView]: toggle move range"
 					},
 					{
 						"id": "ActionTooltip_ContextMenu",
-						"text": "RMB: 显示行动"
+						"text": "RMB: Show Actions"
 					},
 					{
 						"id": "CharacterStatsDescription_INT",
-						"text": "决定了角色的经验获取量. 智力越高角色升级越快."
+						"text": "Determines the amount of experience points a character receives. The higher the intelligence the quicker a character will level up."
 					},
 					{
 						"id": "CharacterStatsDescription_AGI",
-						"text": "决定了角色每回合能移动多远."
+						"text": "Determines how far a character can move per turn."
 					},
 					{
 						"id": "CharacterStatsDescription_END",
-						"text": "如果一个角色被击倒.耐力值决定了多少回合不救他他会去世."
+						"text": "If a character is knocked out, endurance determines how many turns a character stays alive."
 					},
 					{
 						"id": "CharacterStatsDescription_AIM",
-						"text": "熟练度越高, 角色命中率和暴击率就越高."
+						"text": "Higher dexterity means your character has a better aim and improved hit probabilities."
 					},
 					{
 						"id": "CharacterStatsDescription_HEA",
-						"text": "角色当前的生命值."
+						"text": "Determines the character's health points."
 					},
 					{
 						"id": "CharacterStatsDescription_BRA",
-						"text": "角色的勇气点数. 勇气点数可以用来发动特殊技能."
+						"text": "Determines the number of bravery points. Bravery points are used to execute special moves."
 					},
 					{
 						"id": "CharacterStatsDescription_EVA",
-						"text": "决定了角色的回避率. 每次敌人的攻击都有小概率可以回避掉."
+						"text": "Determines your evade chance. Every attack against your character has a small chance of evading."
 					},
 					{
 						"id": "ActionRequirement_Generic",
-						"text": "需要:"
+						"text": "Requires:"
 					},
 					{
 						"id": "ActionRequirement_Bravery",
-						"text": "x[0] 勇气点数"
+						"text": "x[0] Bravery"
 					},
 					{
 						"id": "Tooltip_EndTurn",
-						"text": "结束玩家回合"
+						"text": "End Player Turn"
 					},
 					{
 						"id": "Tooltip_HelpOverlay",
-						"text": "帮助"
+						"text": "Help"
 					},
 					{
 						"id": "Tooltip_Menu",
-						"text": "显示菜单"
+						"text": "Show Menu"
 					},
 					{
 						"id": "Bio_Natalya_Description",
-						"text": "Natalya Shushkova, 俄国科学家"
+						"text": "Natalya Shushkova, Russian Scientist"
 					},
 					{
 						"id": "Bio_Natalya_Positive",
-						"text": "合格的奶妈, 多样的升级路线"
+						"text": "Capable healer, flexible upgrade paths"
 					},
 					{
 						"id": "Bio_Natalya_Negative",
-						"text": "大脆皮, 射击准度一般"
+						"text": "Rather fragile, mediocre aim"
 					},
 					{
 						"id": "Bio_Leonora_Description",
-						"text": "Leonora De Quincey, 不列颠的业余考古学家"
+						"text": "Leonora De Quincey, British Amateur Archeologist"
 					},
 					{
 						"id": "Bio_Leonora_Positive",
-						"text": "后勤多面手, 可以使用突击步枪"
+						"text": "Flexible supporter, capable with assault rifles"
 					},
 					{
 						"id": "Bio_Leonora_Negative",
-						"text": "耐力低, 射击准度低"
+						"text": "Low endurance, low aim"
 					},
 					{
 						"id": "Bio_Veduti_Description",
-						"text": "Monsignor Carlo Veduti, 梵蒂冈的教皇使节"
+						"text": "Monsignor Carlo Veduti, Italian Vatican Legate"
 					},
 					{
 						"id": "Bio_Veduti_Positive",
-						"text": "优秀奶妈, 擅长对付不死生物"
+						"text": "Great healer, strong vs. undead"
 					},
 					{
 						"id": "Bio_Veduti_Negative",
-						"text": "脆皮, 射击准度差"
+						"text": "Fragile, bad aim"
 					},
 					{
 						"id": "Bio_Brunhilda_Description",
-						"text": "Brunhilda, Valkyries的女王, 冰岛游乐场摔跤手"
+						"text": "Brunhilda, Queen of the Valkyries, Icelandic Fairground Wrestler"
 					},
 					{
 						"id": "Bio_Brunhilda_Positive",
-						"text": "强力近战, 重甲肉盾"
+						"text": "Robust melee, heavy armor"
 					},
 					{
 						"id": "Bio_Brunhilda_Negative",
-						"text": "闪避堪忧, 射击准度差"
+						"text": "Dismal reflexes, bad aim"
 					},
 					{
 						"id": "Bio_Pereira_Description",
-						"text": "Luiz 'Piranha' Pereira船长, 巴西蒸汽船上的走私贩"
+						"text": "Captain Luiz 'Piranha' Pereira, Brazilian Steamboat Smuggler"
 					},
 					{
 						"id": "Bio_Pereira_Positive",
-						"text": "霰弹枪专家, 非常耐打"
+						"text": "Shotgun expert, very resilient"
 					},
 					{
 						"id": "Bio_Pereira_Negative",
-						"text": "升级选项较少"
+						"text": "Fewer upgrade options"
 					},
 					{
 						"id": "Bio_Jackson_Description",
-						"text": "Jackson Sheffield, 美国环球旅行家"
+						"text": "Jackson Sheffield, American Globetrotter"
 					},
 					{
 						"id": "Bio_Jackson_Positive",
-						"text": "突击步枪专家, 擅长射击，耐力高"
+						"text": "Assault rifle expert, good aim and endurance"
 					},
 					{
 						"id": "Bio_Jackson_Negative",
-						"text": "反应迟钝, 升级选项有限"
+						"text": "Bad reflexes, limited upgrade options"
 					},
 					{
 						"id": "Bio_Georgette_Description",
-						"text": "Georgette Remy探员, 比利时特工"
+						"text": "Agent Georgette Remy, Belgian Secret Agent"
 					},
 					{
 						"id": "Bio_Georgette_Positive",
-						"text": "一流狙击手, 能找到更多弹药"
+						"text": "Excellent Sniper, finds more ammo"
 					},
 					{
 						"id": "Bio_Georgette_Negative",
-						"text": "脆皮, 机动差"
+						"text": "Fragile, low mobility"
 					},
 					{
 						"id": "Bio_Professor_Description",
-						"text": "Mortimer Bellamy教授, 美国发明家"
+						"text": "Professor Mortimer Bellamy, American Inventor"
 					},
 					{
 						"id": "Bio_Professor_Positive",
-						"text": "分裂者专家, 能找到更多燃料"
+						"text": "Disintegrator expert, finds more fuel"
 					},
 					{
 						"id": "Bio_Professor_Negative",
-						"text": "机动性和回避都不好"
+						"text": "Low mobility and reflexes"
 					},
 					{
 						"id": "Bio_DrChandra_Description",
-						"text": "Gopal Chandraputra博士, 印度英裔古文物研究员"
+						"text": "Dr. Gopal Chandraputra, Anglo-Indian Antiquarian"
 					},
 					{
 						"id": "Bio_DrChandra_Positive",
-						"text": "会用霰弹枪, 也能兼职奶妈"
+						"text": "Capable with shotguns, flexible healer"
 					},
 					{
 						"id": "Bio_DrChandra_Negative",
-						"text": "回避差, 和平主义者"
+						"text": "Bad reflexes, pacifist"
 					},
 					{
 						"id": "Bio_Shaneeka_Description",
-						"text": "Shani, 非洲草原女猎手"
+						"text": "Shani, African Steppe Huntress"
 					},
 					{
 						"id": "Bio_Shaneeka_Positive",
-						"text": "致命的近战打手, 擅长对付不死生物"
+						"text": "Deadly melee fighter, strong vs. undead"
 					},
 					{
 						"id": "Bio_Shaneeka_Negative",
-						"text": "脆皮, 只会近战"
+						"text": "Fragile, melee only"
 					},
 					{
 						"id": "Bio_Baron_Description",
-						"text": "Baron von B., 德国冒牌绅士"
+						"text": "Baron von B., German Gentleman Imposter"
 					},
 					{
 						"id": "Bio_Baron_Positive",
-						"text": "合格的狙击手, 能找到更多钱"
+						"text": "Capable Sniper, finds more money"
 					},
 					{
 						"id": "Bio_Baron_Negative",
-						"text": "机动性差, 面对纳粹手软"
+						"text": "Low mobility, weak vs. Nazis"
 					},
 					{
 						"id": "Bio_Rose_Description",
-						"text": "Rose Sheffield, 美国女冒险家及神秘主义者"
+						"text": "Rose Sheffield, American Adventuress and Mystic"
 					},
 					{
 						"id": "Bio_Rose_Positive",
-						"text": "会用多种武器, 有后勤技能可以学"
+						"text": "Versatile fighter, supporter options"
 					},
 					{
 						"id": "Bio_Rose_Negative",
-						"text": "脆皮. 不擅长对付动物"
+						"text": "Fragile. Weak against animals"
 					},
 					{
 						"id": "Bio_Caballero_Description",
-						"text": "Miguel Ignacio Caballero, 西班牙内战诗人"
+						"text": "Miguel Ignacio Caballero, Spanish Civil War Poet"
 					},
 					{
 						"id": "Bio_Caballero_Positive",
-						"text": "手雷专家, 擅长对付纳米"
+						"text": "Robust Grenade expert, strong vs. Nazis"
 					},
 					{
 						"id": "Bio_Caballero_Negative",
-						"text": "机动性差, 升级空间有限"
+						"text": "Low mobility, limited upgrades"
 					},
 					{
 						"id": "Bio_Omar_Description",
-						"text": "Omar Abu al-Jarabi王子, 阿拉伯艺术收藏家"
+						"text": "Prince Omar Abu al-Jarabi, Arabian Art Collector"
 					},
 					{
 						"id": "Bio_Omar_Positive",
-						"text": "精通各种枪械"
+						"text": "Flexible weapon specialist"
 					},
 					{
 						"id": "Bio_Omar_Negative",
-						"text": "面板属性低, 害怕不死生物"
+						"text": "Low stats, fears undead"
 					},
 					{
 						"id": "Bio_Annabelle_Description",
-						"text": "Annabelle Césaire Montserrat, 加勒比自由飞行员"
+						"text": "Annabelle Césaire Montserrat, Caribbean Freelance Aviatrix"
 					},
 					{
 						"id": "Bio_Annabelle_Positive",
-						"text": "移动手枪达人"
+						"text": "Mobile pistol expert"
 					},
 					{
 						"id": "Bio_Annabelle_Negative",
-						"text": "回避差, 升级空间有限"
+						"text": "Low reflexes, limited upgrades"
 					},
 					{
 						"id": "Bio_LeFantome_Description",
-						"text": "Le Fantôme, 法国传奇海盗"
+						"text": "Le Fantôme, French Burglar Legend"
 					},
 					{
 						"id": "Bio_LeFantome_Positive",
-						"text": "敏捷的近战打手, 多样的升级路线"
+						"text": "Agile Melee fighter, flexible upgrade paths"
 					},
 					{
 						"id": "Bio_LeFantome_Negative",
-						"text": "脆皮, 只能奶自己"
+						"text": "Fragile, can only heal self"
 					},
 					{
 						"id": "Adv_adventureTutorial_Title",
-						"text": "朋友有难!"
+						"text": "A Friend in Need!"
 					},
 					{
 						"id": "Adv_adventureTutorial_Desc",
-						"text": "卡萨布兰卡, 摩洛哥: \n你收到一条绝望的求助请求 – 你的老朋友Morten被纳粹绑架并被带去了摩洛哥沙漠!\n你决定立刻前往北非, 在纳粹处刑前找到并救出Morten!"
+						"text": "Casablanca, Morocco: \nYou receive a desperate plea for help – your old friend Morten has been abducted by the Nazis and taken to the Moroccan desert!\nYou decide to travel to North Africa immediately to find Morten before the Germans execute him!"
 					},
 					{
 						"id": "Adv_adventureTutorial_Intro",
-						"text": "你在离卡萨布兰卡几英里远的一个边境村落稍作休整，这里是离开文明世界的最后一站 – 再往前就只剩下茫茫无情的沙漠. Morten就在前方的某处..."
+						"text": "You take a break in a provincial backwater, a few miles beyond Casablanca. This is the last outpost of civilization – beyond this point is nothing but merciless desert. Morten is out there somewhere..."
 					},
 					{
 						"id": "Adv_adventureTutorial_Extro",
-						"text": "你们一边兴奋地聊天一边走回你的吉普车. 你跳上车, 一路开向那缓缓西沉的落日, 而Morten则一直滔滔不绝地向你讲述他所经历的各种奇闻轶事..."
+						"text": "Chattering excitedly, you stroll back to your jeep. You get in and drive into the setting sun while Morten entertains you with his absurd anecdotes."
 					},
 					{
 						"id": "Adv_adventure02_Title",
-						"text": "上帝之怒"
+						"text": "The Wrath of God"
 					},
 					{
 						"id": "Adv_adventure02_Desc",
-						"text": "耶路撒冷, 巴勒斯坦:\nMorten说的没错: 纳粹们正在进行一些罪恶的勾当…\n这也是你紧紧尾随一支德国探险队来到亚拉拉特山的原因. 他们在寻找一个叫作上帝之怒的神秘物品. \n搅黄他们的计划!"
+						"text": "Jerusalem, Palestine:\nMorten was quite right: The Nazis are up to something sinister…\nThat's why you are hot on the heels of a German expedition to Mount Ararat. They are searching for a mysterious object known as the Wrath of God. \nFoil their plans!"
 					},
 					{
 						"id": "Adv_adventure02_Intro",
-						"text": "从山丘上眺望, 巴勒斯坦的高地和山谷尽收眼底. 山下土路上扬起的一大片尘土, 标志着一支庞大的德国车队正在行进."
+						"text": "Your vantage point on the hill provides an excellent view of the heights and valleys of Palestine. A large cloud of dust on the dirt track below marks out a large German convoy."
 					},
 					{
 						"id": "Adv_adventure02_Extro",
-						"text": "这就是上帝之怒! 这件文物应当被巨石永远深埋地下 - 唯一让你感到慰藉的就是纳粹们再也无法染指于它了... "
+						"text": "The Wrath of God! The artifact should be buried forever under tons of rock - your only consolation is that the Nazis will never get their hands on it... "
 					},
 					{
 						"id": "Adv_adventure03_Title",
-						"text": "黑法老之夜"
+						"text": "Night of the Black Pharaoh"
 					},
 					{
 						"id": "Adv_adventure03_Desc",
-						"text": "开罗, 埃及:\n几周以来在当地术士间疯传的流言让你得出了一个可怕的结论:\nKhonesh兄弟会的邪教成员们打算复活黑法老Turash-Ra! \n你正前往梅罗伊的石漠荒地阻止他们! "
+						"text": "Cairo, Egypt:\nThe wild rumours circulating among local occultists over the past few weeks lead you to one terrifying conclusion:\nThe unholy cultists of the Khonesh Brotherhood plan to reawaken Turash-Ra, the Black Pharaoh! \nYou travel to the stone desert of Meroe to stop them! "
 					},
 					{
 						"id": "Adv_adventure03_Intro",
-						"text": "告别了开罗的喧嚣, 尼罗河, 埃及的生命线, 在你面前伸展出她慵懒蜿蜒的身姿. 滚滚的河水一直流向无边无际的埃及沙漠深处..."
+						"text": "You leave the hustle and noise of Cairo behind you; before you stretch the lazy bends of the Nile, lifeline of ancient Egypt. The mighty river disappears into the eternal expanse of the Egyptian desert."
 					},
 					{
 						"id": "Adv_adventure03_Extro",
-						"text": "伴随着引擎的嘶吼, 你将金字塔永远抛在了身后! Turash-Ra永远不会看到明天的太阳了..."
+						"text": "Your engine roars as you leave the pyramid behind forever! Turash-Ra will never see the light of day again..."
 					},
 					{
 						"id": "Adv_adventure04_Title",
-						"text": "被亵渎的大地"
+						"text": "Desecrated Ground"
 					},
 					{
 						"id": "Adv_adventure04_Desc",
-						"text": "塞得港, 埃及:\n一支纳粹探险队与兄弟会狼狈为奸! 他们正在西奈山上策划一场邪恶的仪式. 谁知道这次他们打算召唤什么样的恶魔! 你在担心最坏的结果!"
+						"text": "Port Said, Egypt:\nA Nazi expedition has joined forces with the Brotherhood! They are planning an unholy ritual on Mount Sinai. Who knows what evil they intend to summon? You fear the worst!"
 					},
 					{
 						"id": "Adv_adventure04_Intro",
-						"text": "为什么德国人要与兄弟会合作? 他们在西奈山上策划着什么? Will you be able to 你能挫败他们的计划吗?"
+						"text": "Why are the Germans working with the Brotherhood? What are they planning on Mount Sinai? Will you be able to thwart their plans?"
 					},
 					{
 						"id": "Adv_adventure04_Extro",
-						"text": "尽管有点不解, 你准备下山回头. 也许并不是每个谜语都应该被揭开..."
+						"text": "Confused, you prepare to head back down. Maybe not every riddle needs to be solved..."
 					},
 					{
 						"id": "Adv_adventure05_Title",
-						"text": "沙隐的梦"
+						"text": "Dreams in the Desert Sand"
 					},
 					{
 						"id": "Adv_adventure05_Desc",
-						"text": "吉达, 阿拉伯:\n弥留之际, 年迈的商队导游发誓说他曾亲眼见过Kharga Serabit, 被风沙掩埋了数千年的失落古城!\n第二天你就踏上了前往蛮荒沙漠中心地带的旅途!"
+						"text": "Jeddah, Arabia:\nWith his dying breath, the old caravan guide swore that he had seen Kharga Serabit with his own eyes. Kharga Serabit, swallowed by the desert sands so many millennia ago!\nThe very next day, you set off on a journey that leads you deep into the heart of the merciless desert!"
 					},
 					{
 						"id": "Adv_adventure05_Intro",
-						"text": "沿着尘土飞扬的沙漠小径你离开了吉达, 离开了这座人们引以为傲的港口城市. 一同告别的还有墙面花圃上郁郁葱葱的绿色植被, 以及拍打在闪闪发光的洁白岸壁上的红海碧波."
+						"text": "The dusty desert path leads you out of Jeddah, away from the lush greenery of its walled gardens and the turquoise waves of the Red Sea that break against the gleaming white quay walls of the proud harbor city."
 					},
 					{
 						"id": "Adv_adventure05_Extro",
-						"text": "咬了咬牙, 你转身决定永远不再踏足这片诅咒之地. 你转而踏上了前往海岸的漫长旅途..."
+						"text": "Gritting your teeth, you turn your back on this cursed place forever to set out on your long journey to the coast..."
 					},
 					{
 						"id": "Adv_adventure06_Title",
-						"text": "最后的前线"
+						"text": "The Final Frontier"
 					},
 					{
 						"id": "Adv_adventure06_Desc",
-						"text": "吉布提, 东非:\nKhonesh兄弟会的邪教徒们正在阿比西尼亚高地寻找Sheba女王的最后安息之地. 据传说记载, 她的陵墓是神圣战车Merkabah的存放之所. \n你必须阻止他们!"
+						"text": "Djibouti, East Africa:\nThe cultists of the Khonesh Brotherhood are searching the Abyssinian Highlands for the final resting place of the Queen of Sheba. According to legend, her temple grave is the repository of the Divine Chariot, Merkabah. \nYou must stop them!"
 					},
 					{
 						"id": "Adv_adventure06_Intro",
-						"text": "当破烂不堪的帆船驶进吉布提港宽敞的码头的时候, 你长舒了一口气: 终于又重新踏上岸了!"
+						"text": "You sigh with relief as your dilapidated sailboat approaches the massive harbor walls of Djibouti: Dry land under your feet again at last!"
 					},
 					{
 						"id": "Adv_adventure06_Extro",
-						"text": "叹了口气, 你开始了归家的旅程 - 至少收获了一段神秘有趣的经历不是么..."
+						"text": "Sighing, you start your journey back - all the richer for this mysterious experience..."
 					},
 					{
 						"id": "OptionsMenu_Confirm",
@@ -11803,7 +11803,7 @@
 					},
 					{
 						"id": "VideoOptionsKeep_Question",
-						"text": "显示设置已更改，要保留这些更改么?\n\n[0]秒后还原为原先设置..."
+						"text": "显示设置已更改,要保留这些更改么?\n\n[0]秒后还原为原先设置..."
 					},
 					{
 						"id": "VideoOptionsKeep_QuestionYes",
@@ -12307,11 +12307,11 @@
 					},
 					{
 						"id": "NPC_angryOriental_name",
-						"text": "生气的男人"
+						"text": "Angry Man"
 					},
 					{
 						"id": "NPC_friendlyOriental_name",
-						"text": "友好的男人"
+						"text": "Friendly Man"
 					},
 					{
 						"id": "NPC_ephrem_name",
@@ -12319,7 +12319,7 @@
 					},
 					{
 						"id": "NPC_oriental_name",
-						"text": "男子"
+						"text": "Man"
 					},
 					{
 						"id": "NPC_mitch_name",
@@ -12327,55 +12327,55 @@
 					},
 					{
 						"id": "NPC_naziOfficer_name",
-						"text": "德军指挥官"
+						"text": "German Officer"
 					},
 					{
 						"id": "NPC_naziTrooper_name",
-						"text": "德军士兵"
+						"text": "German Soldier"
 					},
 					{
 						"id": "NPC_radioOperator_name",
-						"text": "无线电操作员"
+						"text": "Radio Operator"
 					},
 					{
 						"id": "NPC_colonelOrtzen_name",
-						"text": "von Ortzen上校"
+						"text": "Colonel von Ortzen"
 					},
 					{
 						"id": "NPC_captainZettler_name",
-						"text": "Zettler船长"
+						"text": "Captain Zettler"
 					},
 					{
 						"id": "NPC_captainRueckert_name",
-						"text": "Rueckert船长"
+						"text": "Captain Rueckert"
 					},
 					{
 						"id": "NPC_strangeBeing_name",
-						"text": "奇怪的存在"
+						"text": "Strange Being"
 					},
 					{
 						"id": "NPC_naziSergeant_name",
-						"text": "德国军士官"
+						"text": "German Sergeant"
 					},
 					{
 						"id": "NPC_guard_name",
-						"text": "守卫"
+						"text": "Guard"
 					},
 					{
 						"id": "NPC_dyingSoldier_name",
-						"text": "奄奄一息的士兵"
+						"text": "Dying Soldier"
 					},
 					{
 						"id": "NPC_deserter_name",
-						"text": "逃兵"
+						"text": "Deserter"
 					},
 					{
 						"id": "NPC_priest_name",
-						"text": "牧师"
+						"text": "Priest"
 					},
 					{
 						"id": "NPC_oldBeduin_name",
-						"text": "老人"
+						"text": "Old Man"
 					},
 					{
 						"id": "NPC_nomad_name",
@@ -12383,23 +12383,23 @@
 					},
 					{
 						"id": "NPC_oldWoman_name",
-						"text": "老奶奶"
+						"text": "Old Woman"
 					},
 					{
 						"id": "NPC_woman_name",
-						"text": "女子"
+						"text": "Woman"
 					},
 					{
 						"id": "Enemy_infantrist_0_name",
-						"text": "纳粹士兵 I"
+						"text": "Nazi Trooper I"
 					},
 					{
 						"id": "Enemy_infantrist_1_name",
-						"text": "纳粹士兵 II"
+						"text": "Nazi Trooper II"
 					},
 					{
 						"id": "Enemy_infantrist_2_name",
-						"text": "纳粹士兵 III"
+						"text": "Nazi Trooper III"
 					},
 					{
 						"id": "Enemy_eliteInfantrist_0_name",
@@ -12415,143 +12415,143 @@
 					},
 					{
 						"id": "Enemy_officer_0_name",
-						"text": "德国军官 I"
+						"text": "Officer I"
 					},
 					{
 						"id": "Enemy_officer_1_name",
-						"text": "德国军官 II"
+						"text": "Officer II"
 					},
 					{
 						"id": "Enemy_officer_2_name",
-						"text": "德国军官 III"
+						"text": "Officer III"
 					},
 					{
 						"id": "Enemy_sniper_0_name",
-						"text": "狙击手 I"
+						"text": "Sniper I"
 					},
 					{
 						"id": "Enemy_sniper_1_name",
-						"text": "狙击手 II"
+						"text": "Sniper II"
 					},
 					{
 						"id": "Enemy_sniper_2_name",
-						"text": "狙击手 III"
+						"text": "Sniper III"
 					},
 					{
 						"id": "Enemy_dog_0_name",
-						"text": "警犬 I"
+						"text": "Attack Dog I"
 					},
 					{
 						"id": "Enemy_dog_1_name",
-						"text": "警犬 II"
+						"text": "Attack Dog II"
 					},
 					{
 						"id": "Enemy_dog_2_name",
-						"text": "警犬 III"
+						"text": "Attack Dog III"
 					},
 					{
 						"id": "Enemy_eliteDog_0_name",
-						"text": "战斗猎犬 I"
+						"text": "Battle Hound I"
 					},
 					{
 						"id": "Enemy_eliteDog_1_name",
-						"text": "战斗猎犬 II"
+						"text": "Battle Hound II"
 					},
 					{
 						"id": "Enemy_eliteDog_2_name",
-						"text": "战斗猎犬 III"
+						"text": "Battle Hound III"
 					},
 					{
 						"id": "Enemy_shotgunner_0_name",
-						"text": "突击队 I"
+						"text": "Shock Trooper I"
 					},
 					{
 						"id": "Enemy_shotgunner_1_name",
-						"text": "突击队 II"
+						"text": "Shock Trooper II"
 					},
 					{
 						"id": "Enemy_shotgunner_2_name",
-						"text": "突击队 III"
+						"text": "Shock Trooper III"
 					},
 					{
 						"id": "Enemy_medic_0_name",
-						"text": "医疗兵 I"
+						"text": "Medic I"
 					},
 					{
 						"id": "Enemy_medic_1_name",
-						"text": "医疗兵 II"
+						"text": "Medic II"
 					},
 					{
 						"id": "Enemy_medic_2_name",
-						"text": "医疗兵 III"
+						"text": "Medic III"
 					},
 					{
 						"id": "Enemy_zombie_0_name",
-						"text": "僵尸 I"
+						"text": "Zombie I"
 					},
 					{
 						"id": "Enemy_zombie_1_name",
-						"text": "僵尸 II"
+						"text": "Zombie II"
 					},
 					{
 						"id": "Enemy_zombie_2_name",
-						"text": "僵尸 III"
+						"text": "Zombie III"
 					},
 					{
 						"id": "Enemy_infected_0_name",
-						"text": "感染者 I"
+						"text": "Infected I"
 					},
 					{
 						"id": "Enemy_infected_1_name",
-						"text": "感染者 II"
+						"text": "Infected II"
 					},
 					{
 						"id": "Enemy_infected_2_name",
-						"text": "感染者 III"
+						"text": "Infected III"
 					},
 					{
 						"id": "Enemy_cultist_0_name",
-						"text": "邪教徒 I"
+						"text": "Cultist I"
 					},
 					{
 						"id": "Enemy_cultist_1_name",
-						"text": "邪教徒 II"
+						"text": "Cultist II"
 					},
 					{
 						"id": "Enemy_cultist_2_name",
-						"text": "邪教徒 III"
+						"text": "Cultist III"
 					},
 					{
 						"id": "Enemy_sporeBearer_0_name",
-						"text": "孢子寄生菌 I"
+						"text": "Spore Bearer I"
 					},
 					{
 						"id": "Enemy_sporeBearer_1_name",
-						"text": "孢子寄生菌 II"
+						"text": "Spore Bearer II"
 					},
 					{
 						"id": "Enemy_sporeBearer_2_name",
-						"text": "孢子寄生菌 III"
+						"text": "Spore Bearer III"
 					},
 					{
 						"id": "Enemy_necromancer_0_name",
-						"text": "高级女祭司 I"
+						"text": "High Priestess I"
 					},
 					{
 						"id": "Enemy_necromancer_1_name",
-						"text": "高级女祭司 II"
+						"text": "High Priestess II"
 					},
 					{
 						"id": "Enemy_necromancer_2_name",
-						"text": "高级女祭司 III"
+						"text": "High Priestess III"
 					},
 					{
 						"id": "Enemy_Asshole_name",
-						"text": "步兵"
+						"text": "Infanterist"
 					},
 					{
 						"id": "Enemy_Asshole2_name",
-						"text": "步兵"
+						"text": "Infanterist"
 					},
 					{
 						"id": "Player_natalya_name",
@@ -12587,7 +12587,7 @@
 					},
 					{
 						"id": "Player_drChandra_name",
-						"text": "Chandra博士"
+						"text": "Dr. Chandra"
 					},
 					{
 						"id": "Player_shaneeka_name",
@@ -12631,7 +12631,7 @@
 					},
 					{
 						"id": "Player_professorTrailer_name",
-						"text": "教授"
+						"text": "Professor"
 					},
 					{
 						"id": "Player_jacksonWeaponTester_name",
@@ -12639,11 +12639,11 @@
 					},
 					{
 						"id": "Player_pereiraWeaponTester_name",
-						"text": "Pereira船长"
+						"text": "Capt. Pereira"
 					},
 					{
 						"id": "Player_proffesorWeaponTester_name",
-						"text": "教授"
+						"text": "Professor"
 					},
 					{
 						"id": "Player_leFantomeWeaponTester_name",
@@ -12651,119 +12651,119 @@
 					},
 					{
 						"id": "Codex_Label",
-						"text": "事典"
+						"text": "CODEX"
 					},
 					{
 						"id": "Codex_Tab_1",
-						"text": "常规"
+						"text": "BASICS"
 					},
 					{
 						"id": "Codex_Tab_2",
-						"text": "行程"
+						"text": "TRAVEL"
 					},
 					{
 						"id": "Codex_Tab_3",
-						"text": "战斗"
+						"text": "COMBAT"
 					},
 					{
 						"id": "Codex_Tab_4",
-						"text": "敌人"
+						"text": "ENEMIES"
 					},
 					{
 						"id": "Codex_Category_1",
-						"text": "主题"
+						"text": "TOPIC"
 					},
 					{
 						"id": "Codex_Category_2",
-						"text": "详情"
+						"text": "INFORMATION"
 					},
 					{
 						"id": "Achievement_Reward_Label",
-						"text": "奖励:"
+						"text": "Reward:"
 					},
 					{
 						"id": "Achievement_Info_Label",
-						"text": "点击这里领取"
+						"text": "Click here to claim"
 					},
 					{
 						"id": "Achievement_Unlock_Label",
-						"text": "锁定项:"
+						"text": "Unlocks:"
 					},
 					{
 						"id": "Achievement_Info_Claim_Label",
-						"text": "点击领取你的奖励"
+						"text": "Click to claim your reward"
 					},
 					{
 						"id": "Achievement_Info_NoClaim_Label",
-						"text": "菜单中无法领取奖励"
+						"text": "Reward can't be claimed in menu"
 					},
 					{
 						"id": "Achievement_AdventureUnlock_Label",
-						"text": "解锁了新的冒险"
+						"text": "New Adventure Unlocked"
 					},
 					{
 						"id": "Achievements_TabLabel",
-						"text": "成就"
+						"text": "Achievements"
 					},
 					{
 						"id": "Achievements_Label_Filters",
-						"text": "筛选"
+						"text": "Filters"
 					},
 					{
 						"id": "Achievements_Label_Information",
-						"text": "详情"
+						"text": "Information"
 					},
 					{
 						"id": "Achievement_Type_AdventureUnlocks",
-						"text": "冒险解锁"
+						"text": "Adventure Unlocks"
 					},
 					{
 						"id": "Achievement_Type_CharacterUnlocks",
-						"text": "人物解锁"
+						"text": "Character Unlocks"
 					},
 					{
 						"id": "Achievement_Type_ExplorationAchievements",
-						"text": "探索成就"
+						"text": "Exploration Achievements"
 					},
 					{
 						"id": "Achievement_Type_EncounterAchievements",
-						"text": "战术成就"
+						"text": "Tactical Achievements"
 					},
 					{
 						"id": "Achievement_Type_AdventureUnlocks_Short",
-						"text": "冒险"
+						"text": "Adventures"
 					},
 					{
 						"id": "Achievement_Type_CharacterUnlocks_Short",
-						"text": "人物"
+						"text": "Characters"
 					},
 					{
 						"id": "Achievement_Type_ExplorationAchievements_Short",
-						"text": "探索"
+						"text": "Exploration"
 					},
 					{
 						"id": "Achievement_Type_EncounterAchievements_Short",
-						"text": "战术"
+						"text": "Tactical"
 					},
 					{
 						"id": "CodexTutorial_Title",
-						"text": "更多事典信息"
+						"text": "More info in Codex"
 					},
 					{
 						"id": "CodexTutorial_Description",
-						"text": "无论什么时候你看到这里有通知闪烁, 你都可以点这个按钮来查看更多和当前相关的信息\n\n你可以在设置界面关闭通知."
+						"text": "Whenever you see this notification blinking you can click on this button to see more information on the current context.\n\nYou can disable this in the options screen."
 					},
 					{
 						"id": "CombatStats_Kills",
-						"text": "击杀"
+						"text": "Kills"
 					},
 					{
 						"id": "CombatStats_Hospitalized",
-						"text": "住院"
+						"text": "Hospitalized"
 					},
 					{
 						"id": "CombatStats_DamageDealtLabel",
-						"text": "造成伤害"
+						"text": "Damage Dealt"
 					},
 					{
 						"id": "CombatStats_DamageDealtAmount",
@@ -12771,7 +12771,7 @@
 					},
 					{
 						"id": "CombatStats_ShotAccuracyLabel",
-						"text": "命中率"
+						"text": "Shot Accuracy"
 					},
 					{
 						"id": "CombatStats_ShotAccuracyAmount",
@@ -12779,7 +12779,7 @@
 					},
 					{
 						"id": "CombatStats_EvadesLabel",
-						"text": "回避"
+						"text": "Evades"
 					},
 					{
 						"id": "CombatStats_EvadesAmount",
@@ -12787,7 +12787,7 @@
 					},
 					{
 						"id": "CombatStats_CritsLabel",
-						"text": "暴击"
+						"text": "Crits"
 					},
 					{
 						"id": "CombatStats_CritsAmount",
@@ -12795,23 +12795,23 @@
 					},
 					{
 						"id": "CombatStats_TimeTakenLabel",
-						"text": "用时"
+						"text": "Time taken"
 					},
 					{
 						"id": "CombatStats_TimeTakenAmount",
-						"text": "[4]:[5][6] ([7]回合)"
+						"text": "[4]:[5][6] ([7] Turns)"
 					},
 					{
 						"id": "CombatStats_ReloadLabel",
-						"text": "重装填所有武器"
+						"text": "Reload all weapons"
 					},
 					{
 						"id": "CombatStats_ContinueLabel",
-						"text": "返回地图"
+						"text": "Back to map"
 					},
 					{
 						"id": "AdventureStats_Valuables",
-						"text": "贵重品"
+						"text": "Valuables"
 					},
 					{
 						"id": "AdventureStats_ValuablesAmount",
@@ -12819,15 +12819,15 @@
 					},
 					{
 						"id": "AdventureStats_CombatTitle",
-						"text": "战斗"
+						"text": "Combat"
 					},
 					{
 						"id": "AdventureStats_AdventureTitle",
-						"text": "冒险"
+						"text": "Adventure"
 					},
 					{
 						"id": "AdventureStats_TimeTakenLabel",
-						"text": "用时"
+						"text": "Time taken"
 					},
 					{
 						"id": "AdventureStats_TimeTakenAmount",
@@ -12835,7 +12835,7 @@
 					},
 					{
 						"id": "AdventureStats_FuelUsedLabel",
-						"text": "消耗燃料"
+						"text": "Fuel used"
 					},
 					{
 						"id": "AdventureStats_FuelUsedAmount",
@@ -12843,7 +12843,7 @@
 					},
 					{
 						"id": "AdventureStats_AmmoUsedLabel",
-						"text": "消耗弹药"
+						"text": "Ammo used"
 					},
 					{
 						"id": "AdventureStats_AmmoUsedAmount",
@@ -12851,7 +12851,7 @@
 					},
 					{
 						"id": "AdventureStats_ItemsCollectedLabel",
-						"text": "收集物品"
+						"text": "Items collected"
 					},
 					{
 						"id": "AdventureStats_ItemsCollectedAmount",
@@ -12859,7 +12859,7 @@
 					},
 					{
 						"id": "AdventureStats_MoneyCollectedLabel",
-						"text": "收集财物"
+						"text": "Money collected"
 					},
 					{
 						"id": "AdventureStats_MoneyCollectedAmount",
@@ -12867,7 +12867,7 @@
 					},
 					{
 						"id": "AdventureStats_ExperienceGainedLabel",
-						"text": "获得经验"
+						"text": "Experience gained"
 					},
 					{
 						"id": "AdventureStats_ExperienceGainedAmount",
@@ -12875,7 +12875,7 @@
 					},
 					{
 						"id": "AdventureStats_DamageDealtLabel",
-						"text": "总计伤害"
+						"text": "Total damage dealt"
 					},
 					{
 						"id": "AdventureStats_DamageDealtAmount",
@@ -12883,7 +12883,7 @@
 					},
 					{
 						"id": "AdventureStats_ShotAccuracyLabel",
-						"text": "平均命中率"
+						"text": "Avg Shot accuracy"
 					},
 					{
 						"id": "AdventureStats_ShotAccuracyAmount",
@@ -12891,7 +12891,7 @@
 					},
 					{
 						"id": "AdventureStats_EvadesLabel",
-						"text": "总共回避"
+						"text": "Total Evades"
 					},
 					{
 						"id": "AdventureStats_EvadesAmount",
@@ -12899,7 +12899,7 @@
 					},
 					{
 						"id": "AdventureStats_CritsLabel",
-						"text": "总共暴击"
+						"text": "Total Crits"
 					},
 					{
 						"id": "AdventureStats_CritsAmount",
@@ -12911,15 +12911,15 @@
 					},
 					{
 						"id": "AdventureStats_ContinueButton",
-						"text": "回到菜单"
+						"text": "Back to Menu"
 					},
 					{
 						"id": "AdventureStats_StartAdventure",
-						"text": "开始冒险"
+						"text": "Begin Adventure"
 					},
 					{
 						"id": "AdventureStats_AdventureStats",
-						"text": "显示状态"
+						"text": "Show Stats"
 					},
 					{
 						"id": "Trashbag_Value",
@@ -12927,31 +12927,31 @@
 					},
 					{
 						"id": "Trashbag_Title",
-						"text": "贵重品"
+						"text": "Valuables"
 					},
 					{
 						"id": "Trashbag_Empty",
-						"text": "什么也没有:("
+						"text": "Empty :("
 					},
 					{
 						"id": "Trashbag_UndoDescription",
-						"text": "拿回最后放进贵重品包的待售物品."
+						"text": "Return last item from the valuables bag back to your inventory."
 					},
 					{
 						"id": "EventEffect_ItemReceived",
-						"text": "接收[item:name]"
+						"text": "[item:name] received"
 					},
 					{
 						"id": "EventEffect_ItemRemoved",
-						"text": "移除[item:name]"
+						"text": "[item:name] removed"
 					},
 					{
 						"id": "EventEffect_AttributeRestored",
-						"text": "回满"
+						"text": "replenished"
 					},
 					{
 						"id": "EventEffect_UnitRevived",
-						"text": "回满"
+						"text": "revived"
 					},
 					{
 						"id": "EventEffect_Fuel",
@@ -12967,44 +12967,44 @@
 					},
 					{
 						"id": "EventEffect_Party",
-						"text": "队伍"
+						"text": "Party"
 					},
 					{
 						"id": "ItemContext_UseWith",
-						"text": "给"
+						"text": "Use on"
 					},
 					{
 						"id": "ItemContext_Reload",
-						"text": "重装填"
+						"text": "Reload"
 					},
 					{
 						"id": "ItemContext_ConvertToTrash",
-						"text": "拿去待售"
+						"text": "Move to Valuables"
 					},
 					{
 						"id": "GambleOption_Info",
-						"text": "该选择会产生一项有利或不利的结果."
+						"text": "This choice may yield a positive or negative outcome."
 					},
 					{
 						"id": "GamblePerkOption_Info",
-						"text": "该选项会用到角色的天赋. 结果可能有利也可能不利. 但你角色的天赋能大大提高成功的几率."
+						"text": "This option uses a character perk. It may yield a positive or negative outcome. Your perk will however improve your chances of success significantly."
 					},
 					{
 						"id": "GamblePerkOption_LockedInfo",
-						"text": "该选项会用到角色的天赋. 你当前队伍中没有角色拥有这项天赋."
+						"text": "This option uses a character perk. Your team does not possess the appropriate perk."
 					},
 					{
 						"id": "GambleInfo_Title",
-						"text": "赌一把"
+						"text": "Gamble"
 					},
 					{
 						"id": "CodexTopic_LockedInfo",
-						"text": "该主题尚未解锁, 因为你还未遇见过这种敌人."
+						"text": "This topic is locked because you have not yet encountered the enemies described."
 					}
 				]
 			},
 			{
-				"id": "Items",//600条done
+				"id": "Items",
 				"rows": [
 					{
 						"id": "knife_0_a_description",
@@ -16470,7 +16470,7 @@
 				]
 			},
 			{
-				"id": "Quotes",//504条processing
+				"id": "Quotes",
 				"rows": [
 					{
 						"id": "natalya_NeedReloading_0",
